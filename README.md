@@ -1,5 +1,3 @@
-Certainly! Here is the revised README with the first part in English:
-
 # Online Store MercadoLivre API
 
 This project is an online store built using React class components to fetch data from the MercadoLivre.com.br API and render it within the application. The app simulates a virtual store where users can browse products, add items to the cart, and view product details.
